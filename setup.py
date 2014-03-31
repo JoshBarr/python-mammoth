@@ -20,7 +20,7 @@ setup(
     name='mammoth',
     version='0.2.0-dev',
     description='Convert Word documents to simple and clean HTML',
-    long_description=read("README"),
+    long_description=read("README.md"),
     author='Michael Williamson',
     author_email='mike@zwobble.org',
     url='http://github.com/mwilliamson/python-mammoth',
